@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="82" started-at="2022-10-02T22:03:36 IST" finished-at="2022-10-02T22:03:36 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="82" started-at="2022-10-02T22:03:36 IST" finished-at="2022-10-02T22:03:36 IST">
+      <class name="CodingAssignment.TeamRCBAssignment.Test1">
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:CodingAssignment.TeamRCBAssignment.Test1@6043cd28]" name="test1" duration-ms="6" started-at="2022-10-02T22:03:36 IST" data-provider="dp" finished-at="2022-10-02T22:03:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Faf Du Plessis,South Africa,Batsman,7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:CodingAssignment.TeamRCBAssignment.Test1@6043cd28]" name="test1" duration-ms="1" started-at="2022-10-02T22:03:36 IST" data-provider="dp" finished-at="2022-10-02T22:03:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Virat Kohli,India,Batsman,15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:CodingAssignment.TeamRCBAssignment.Test1@6043cd28]" name="test1" duration-ms="1" started-at="2022-10-02T22:03:36 IST" data-provider="dp" finished-at="2022-10-02T22:03:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Glenn Maxwell,Australia,Batsman,11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:CodingAssignment.TeamRCBAssignment.Test1@6043cd28]" name="test1" duration-ms="1" started-at="2022-10-02T22:03:36 IST" data-provider="dp" finished-at="2022-10-02T22:03:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mohammad Siraj,India,Bowler,7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:CodingAssignment.TeamRCBAssignment.Test1@6043cd28]" name="test1" duration-ms="1" started-at="2022-10-02T22:03:36 IST" data-provider="dp" finished-at="2022-10-02T22:03:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Harshal Patel,India,Bowler,10.75]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:CodingAssignment.TeamRCBAssignment.Test1@6043cd28]" name="test1" duration-ms="4" started-at="2022-10-02T22:03:36 IST" data-provider="dp" finished-at="2022-10-02T22:03:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Wanindu Hasaranga,Srilanka,Bowler,10.75]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:CodingAssignment.TeamRCBAssignment.Test1@6043cd28]" name="test1" duration-ms="4" started-at="2022-10-02T22:03:36 IST" data-provider="dp" finished-at="2022-10-02T22:03:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dinesh Karthik,India,Wicket-keeper,5.5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:CodingAssignment.TeamRCBAssignment.Test1@6043cd28]" name="test1" duration-ms="1" started-at="2022-10-02T22:03:36 IST" data-provider="dp" finished-at="2022-10-02T22:03:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shahbaz Ahmed,India,All-Rounder,2.4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:CodingAssignment.TeamRCBAssignment.Test1@6043cd28]" name="test1" duration-ms="1" started-at="2022-10-02T22:03:36 IST" data-provider="dp" finished-at="2022-10-02T22:03:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rajat Patidar,India,Batsman,0.20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:CodingAssignment.TeamRCBAssignment.Test1@6043cd28]" name="test1" duration-ms="1" started-at="2022-10-02T22:03:36 IST" data-provider="dp" finished-at="2022-10-02T22:03:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Josh Hazlewood,Australia,Bowler,7.75]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:CodingAssignment.TeamRCBAssignment.Test1@6043cd28]" name="test1" duration-ms="0" started-at="2022-10-02T22:03:36 IST" data-provider="dp" finished-at="2022-10-02T22:03:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mahipal Lomror,India,Bowler,7.75]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- CodingAssignment.TeamRCBAssignment.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
